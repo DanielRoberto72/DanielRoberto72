@@ -26,7 +26,7 @@
    ## 📱 Connect with me
   <div align="center">
     <a href="https://www.linkedin.com/in/daniel-roberto-b047aa216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://danielrobertopereira33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
     
     
   </div>
