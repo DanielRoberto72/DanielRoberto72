@@ -11,7 +11,7 @@
 </div>
   
   ## 🔎 Studying and developing
-  <img align="right" alt="HTML" height="300" width="350" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+  <img align="right" alt="HTML" height="250" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
   <div align="center">
   
   <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
