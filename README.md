@@ -1,7 +1,7 @@
 ## 👋✌️ Hello, my name is Daniel Roberto!
 
 🔭 I currently work with Telecom and Front-end development.<br>
-📃 Computer tech.  📎 Studying Systems Analysis and Development at IFSP. 📂 Studying React Native.
+📃 Computer tech.  📎 Studying Systems Analysis and Development at IFSP.
 
  
 <div align="center">
