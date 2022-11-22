@@ -1,6 +1,6 @@
 ## 👋✌️ Hello, my name is Daniel Roberto!
 
-🔭 I currently work with Telecom and Front-end development.<br>
+🔭 I currently work with Telecom and FullStack development.<br>
 📃 Computer tech.  📎 Studying Systems Analysis and Development at IFSP.
 
  
