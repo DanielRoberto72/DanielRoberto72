@@ -90,8 +90,13 @@ Plataforma para gestão contextualizada de informações.
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielRoberto72&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRoberto72&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=DankiAulas,Portal-de-busca" alt="Top Langs"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielRoberto72&theme=tokyonight" alt="Profile Details"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielRoberto72&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielRoberto72&theme=tokyonight" alt="Stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielRoberto72&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
 </p>
 
 <p align="center">
