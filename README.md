@@ -90,14 +90,19 @@ Plataforma para gestão contextualizada de informações.
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielRoberto72&theme=tokyonight" alt="Profile Details"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielRoberto72&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielRoberto72&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielRoberto72&theme=tokyonight" alt="Stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielRoberto72&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielRoberto72&theme=tokyonight&exclude=DankiAulas,Portal-de-busca" alt="Repos per Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielRoberto72&theme=tokyonight" alt="Most Commits Language"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielRoberto72&theme=tokyonight" alt="Stats"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielRoberto72&theme=tokyonight&utcOffset=-3" alt="Productive Time"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielRoberto72&theme=tokyonight&hide_border=true" alt="Streak"/>
