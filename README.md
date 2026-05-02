@@ -76,12 +76,6 @@ Pipeline event-driven para upload, análise por IA (Gemini Vision + Groq) e gera
 - **Stack**: NestJS · TypeScript · MongoDB · MySQL · S3 · SQS · Gemini · Groq
 - **Arquitetura**: 5 microsserviços (BFF, Upload Orchestration, Processing, Report, Auth) + EKS + Helm + Terraform
 
-### Surf Telecom — Automações e integrações internas
-Geradores automáticos de Documentos de Esforço, automações de operação e integrações com sistemas legados.
-
-### AtomEdAI — Healthtech (em desenvolvimento)
-Backend NestJS para gestão de exames oftalmológicos e calculadora de lentes, com frontend Next.js 16.
-
 ### Contexta (Look Code) — SaaS em produção
 Plataforma para gestão contextualizada de informações.
 
