@@ -19,10 +19,9 @@
 
 ## Sobre
 
-- Desenvolvedor Pleno na **Surf Telecom**, atuando em backend, integrações e automações de operação.
-- Pós-graduando em **Software Architecture, Development & DevOps** na **FIAP**.
+- IT Infrastructure Engineer no **Bradesco**.
+- Pós-graduado em **Software Architecture na **FIAP**.
 - Foco em **Clean Architecture**, **DDD**, **Event-Driven** e plataformas **AWS-first**.
-- Trabalho com times pequenos, decisões rápidas e código que sobrevive ao próximo trimestre.
 
 ---
 
@@ -75,9 +74,6 @@ Sistema completo em microsserviços para gestão de ordens de serviço, com aute
 Pipeline event-driven para upload, análise por IA (Gemini Vision + Groq) e geração de relatórios técnicos sobre diagramas de arquitetura.
 - **Stack**: NestJS · TypeScript · MongoDB · MySQL · S3 · SQS · Gemini · Groq
 - **Arquitetura**: 5 microsserviços (BFF, Upload Orchestration, Processing, Report, Auth) + EKS + Helm + Terraform
-
-### Contexta (Look Code) — SaaS em produção
-Plataforma para gestão contextualizada de informações.
 
 ---
 
