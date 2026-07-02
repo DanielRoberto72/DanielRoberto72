@@ -20,7 +20,7 @@
 ## Sobre
 
 - IT Infrastructure Engineer no **Bradesco**.
-- Pós-graduado em **Software Architecture na **FIAP**.
+- Pós-graduado em **Software Architecture** na **FIAP**.
 - Foco em **Clean Architecture**, **DDD**, **Event-Driven** e plataformas **AWS-first**.
 
 ---
